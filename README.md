@@ -7,6 +7,7 @@ use it without any exceptions(?)
 
 ## TODO:
 - [ ] Create bash file for creating symlinks for configs
+- [ ] Add branch and link for laptop config
 - [ ] Add more info to README.md
 - [ ] Add software, what i use to README.md
 - [ ] Add special thanks section
