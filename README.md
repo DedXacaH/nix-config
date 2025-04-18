@@ -12,5 +12,5 @@ use it without any exceptions(?)
 - [ ] Add special thanks section
 
 ## Special thanks
-Thanks to [xeli01](https://github.com/xeji01) and his [hyprstellar](https://github.com/xeji01/hyprstellar) for his dot files for arch, what
+Thanks to [xeji01](https://github.com/xeji01) and his [hyprstellar](https://github.com/xeji01/hyprstellar) for his dot files for arch, what
 is base of this config.
