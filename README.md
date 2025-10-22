@@ -1,3 +1,4 @@
+# May be broken, use on your own risk
 # NixOS configuration from DedXacaH
 I create this repo only for personal use, but, if you want to test, you can
 use it without any exceptions(?)
